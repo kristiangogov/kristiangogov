@@ -1,5 +1,5 @@
 ## 💻 **Operations Engineer** @ [**The Coca-Cola Company**](https://github.com/The-Coca-Cola-Company) 💻
 
-[![GOGOV.DEV](https://d1tnmkmhr2jcsa.cloudfront.net/w2a1lr%2Fpreview%2F63432766%2Fmain_large.png?response-content-disposition=inline%3Bfilename%3D%22main_large.png%22%3B&response-content-type=image%2Fpng&Expires=1735655230&Signature=A6K9DL2N-IgaQWokLmBGLwP~fG9qhJJNBvJQ66w03NvLOeCBe7YD5jgSUpS2p41ONM5QRD7SkcfJgiGFvkrje8GIsyOCrvMSiTlLE6Cn-2lIkXIEYzG0TynAMJkXenC7Vzbu0fzUqRW0GpYCrsZdryF-Yg1FJDY3-2abUsvf-MzdyiBbvcNBPFYkuu3AGhuDN7SV~bOWEe96CT~6wbF3TZqAx-L14xoGLwDTPgldF-uMDnxfebdYQNdbsnLKgMDvB~UBjL0a3ocC4n-IKXVsNZPVYDaXfQ7izzs32ka3nlkYR4uN-c6QJwEcIx0mb5RfOmMgkQR2J~SK24cuLEA5Cg__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ)](http://gogov.dev)
+[![GOGOV.DEV](https://i.imgur.com/LoJl5gn.png)](http://gogov.dev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristiangogov)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kristiangogow@gmail.com)
